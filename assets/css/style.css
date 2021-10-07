@@ -1,0 +1,16 @@
+#redWord {
+    /*propriété suivis de la valeur*/
+    color: #f00;   
+}
+#greenWord {
+    color: green;
+}
+#boldWord {
+    font-weight: bold;
+}
+#italicWord {
+    font-style: italic;
+}
+h1{
+    text-transform: uppercase;
+}
